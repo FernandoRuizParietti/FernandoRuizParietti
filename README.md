@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=FernandoRuizParietti.FernandoRuizParietti)
 
 </p>
-<div size='20px'> Hi! My name is Fernando J Ruiz. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hello! My name is Fernando J Ruiz. I am 40 years old, I am an Electronics Engineer and looking to turn her professional career by venturing into the IT World, the word re-invention is the key, thanks for taking the time to see my GitHub profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
