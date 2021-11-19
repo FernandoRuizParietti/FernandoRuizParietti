@@ -13,7 +13,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="20%" align="right" alt="Github" src="https://thumbs.dreamstime.com/z/el-equipo-de-concepto-del-programador-con-desarrollo-programas-los-devops-practica-la-metodolog%C3%ADa-vector-ejemplo-144362678.jpg" />
+<img width="30%" align="right" alt="Github" src="https://thumbs.dreamstime.com/z/el-equipo-de-concepto-del-programador-con-desarrollo-programas-los-devops-practica-la-metodolog%C3%ADa-vector-ejemplo-144362678.jpg" />
 
 
 - 🔭 I’m currently working on My Blog, Github Project
