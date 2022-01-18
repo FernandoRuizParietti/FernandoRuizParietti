@@ -45,10 +45,15 @@ Electronic Engineering, Control systems
 
 
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<h2> Stuff I worked  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <h4> Deploy Individual Project: PI-Dogs-v3 <h4>
 <a href="https://pi-dogs-v3.vercel.app/">
 <img width = '100px' align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWzRdtXyfjYmN7EZnBaXDtaMgvnKjgL7kbMg&usqp=CAU"/>
+</a>
+<br>
+ <h4> Deploy Grupal Project: e-Commerce <h4>
+<a href="https://ecommerce-pg.vercel.app/">
+<img width = '100px' align="center" src="https://images.unsplash.com/photo-1565814636199-ae8133055c1c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"/>
 </a>
 <br>
 
