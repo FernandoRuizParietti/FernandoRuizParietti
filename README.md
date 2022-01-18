@@ -38,9 +38,9 @@ Electronic Engineering, Control systems
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/fernando-ruiz-parietti/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/FernandoRuizParietti'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
- <h2> email 1: ferdyjrp@yahoo.com.ar </h2>
- <h2> email 1: ferdyjrp@gmail.com </h2>
- <h2> wtsp: +54 9 351 2189394 </h2>
+ <h3> email 1: ferdyjrp@yahoo.com.ar </h3>
+ <h3> email 1: ferdyjrp@gmail.com </h3>
+ <h3> wtsp: +54 9 351 2189394 </h3>
  
 
 
