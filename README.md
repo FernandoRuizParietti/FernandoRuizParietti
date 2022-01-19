@@ -59,8 +59,8 @@ Electronic Engineering, Control systems
 
 
 <h2> My soft skills are: </h2>
-  <h3> Teamwork </h3> 
-  <h3> Responsibility </h3>
+  <h3> Teamwork,  Responsable, Empathic, Without fear of challenge, Adaptable, Eager to learn new things</h3> 
+ 
 
 
 
