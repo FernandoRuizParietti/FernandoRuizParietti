@@ -59,7 +59,7 @@ Electronic Engineering, Control systems
 
 
 <h2> My soft skills are: </h2>
-  <h3> Teamwork,  Responsable, Empathic, Without fear of challenge, Adaptable, Eager to learn new things</h3> 
+  <h3> Teamwork,  Responsable, Empathic, Without fear of challenge, Adaptable, Eager to learn new things, Good partner, I like teaching and more</h3> 
  
 
 
