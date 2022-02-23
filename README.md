@@ -5,7 +5,7 @@
 <h1>Hola compañeros <Desarrolladores />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=FernandoRuizParietti.FernandoRuizParietti)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=FernandoRuizParietti.FernandoRuizParietti) -->
 
 </p>
 <div size='20px'> Hola! Me llamo Fernando J Ruiz. tengo 41 años, Soy un desarrollador full-stack que busca hacer sus primeros pasos en el mindo IT, la palabra reinvencion es la clave.Como plus tengo mas de 15 años de experiencia trabajando como Ingeniero en Electronica , gracias por tomarte el tiempo de ver mi perfil de Github :smile: 
