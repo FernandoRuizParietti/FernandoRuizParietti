@@ -8,7 +8,7 @@
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=FernandoRuizParietti.FernandoRuizParietti) -->
 
 </p>
-<div size='20px'> Hola! Me llamo Fernando J Ruiz. tengo 41 años, Soy un desarrollador full-stack que busca hacer sus primeros pasos en el mindo IT, la palabra reinvencion es la clave.Como plus tengo mas de 15 años de experiencia trabajando como Ingeniero en Electronica , gracias por tomarte el tiempo de ver mi perfil de Github :smile: 
+<div size='20px'> Hola! Me llamo Fernando J Ruiz. tengo 41 años, Soy un desarrollador full-stack que busca seguir creciendo en el mindo IT, la palabra reinvencion es la clave. Como plus tengo mas de 15 años de experiencia trabajando como Ingeniero en Electronica , gracias por tomarte el tiempo de ver mi perfil de Github :smile: 
 </div>
 
 <h2> Acerca de mi <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
